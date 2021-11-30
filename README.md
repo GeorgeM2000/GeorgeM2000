@@ -23,6 +23,9 @@ I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 a
 - 👨🏽‍💼 Improving my skills on a daily basis.
 - 📫 Mail me at: giorgos_matlis@hotmail.com
   <br />
+  <br />
+  <br />
+  <br />
 
 ### Languages and Tools:
 
