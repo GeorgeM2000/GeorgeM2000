@@ -12,6 +12,7 @@ I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 a
 - Backend Web Development
 - Machine Learning
 - Scientific Computing
+- I.O.T Application design
   <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   </br>
