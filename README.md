@@ -13,9 +13,11 @@ I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 a
 - Machine Learning
 - Scientific Computing
 - I.O.T Application design
+
+  <!-- <br/>
   <br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  </br>
+  </br> -->
 
 **About Me:**
 
@@ -40,6 +42,7 @@ I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 a
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
  </br>
  </br>
