@@ -45,7 +45,7 @@ I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 a
 
 ## Stats
 
-![ github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
+![GeorgeM2000's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeM2000&show_icons=true&theme=dracula)
 
 
 </br>
