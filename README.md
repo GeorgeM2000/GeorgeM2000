@@ -4,7 +4,7 @@
 
 <br />
 
-I am an undergraduate student studying Computer Science (3rd year) 👨‍💻 at UOWM (University Of Western Macedonia). I am interested in machine learning applications from a software and hardware perspective 💻 trying to learn and improve myself 🚀.
+I am an undergraduate student studying Computer Science (4th year) 👨‍💻 at UOWM (University Of Western Macedonia). I am interested in machine learning applications from a software and hardware perspective 💻 trying to learn and improve myself 🚀.
 <br/>
 
 ## Technologies I am interested in :computer:
