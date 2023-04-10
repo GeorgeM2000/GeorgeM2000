@@ -10,7 +10,7 @@ I am an undergraduate student studying Computer Science (4th year) 👨‍💻 a
 ## Technologies I am interested in :computer:
 
 - Backend Web Development
-- Machine Learning
+- Machine Learning and Data Mining
 - Scientific Computing
 - I.O.T Application design
 
@@ -40,12 +40,14 @@ I am an undergraduate student studying Computer Science (4th year) 👨‍💻 a
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" 
 
 <br/>
 
 ## Stats
 
 ![GeorgeM2000's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeM2000&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeM2000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
