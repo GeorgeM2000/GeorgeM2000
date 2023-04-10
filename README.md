@@ -47,6 +47,8 @@ I am an undergraduate student studying Computer Science (4th year) 👨‍💻 a
 ## Stats
 
 ![GeorgeM2000's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeM2000&show_icons=true&theme=dracula)
+
+## Most Used Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeM2000)](https://github.com/anuraghazra/github-readme-stats)
 
 
