@@ -1,10 +1,7 @@
-# Hello! I'm George<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-
-### Hello everyone!&nbsp;<!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
+# Hello! I'm George <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 <br />
-
-I am an undergraduate student studying Computer Science (4th year) 👨‍💻 at UOWM (University Of Western Macedonia). I am interested in machine learning applications from a software and hardware perspective 💻 trying to learn and improve myself 🚀.
+I am an undergraduate student studying Computer Science (4th year) 👨‍💻 at UOWM (University Of Western Macedonia). I am interested in machine learning applications from a software and hardware perspective 💻. I am constantly improving my skills and learning new things 🚀.
 <br/>
 
 ## Technologies I am interested in :computer:
@@ -27,7 +24,7 @@ I am an undergraduate student studying Computer Science (4th year) 👨‍💻 a
 - 📫 Mail me at: giorgos_matlis@hotmail.com
 <br/>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and tools i am familiar with:
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
