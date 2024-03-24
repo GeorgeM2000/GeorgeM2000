@@ -24,10 +24,17 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 - 📫 Mail me at: gmatl@csd.auth.gr
 <br/>
 
-### :hammer_and_wrench: Languages and tools i am familiar with:
+## ⚙️ Languages & Tools
 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="github" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" title="intellij" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="androidstudio" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="vscode" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" title="jupyternotebook" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" title="neo4j" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" title="spark" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" title="matlab" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" title="tensorflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -41,12 +48,13 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 
 <br/>
 
-## Stats
+## 📊 Stats
 
-![GeorgeM2000's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeM2000&show_icons=true&theme=dracula)
-
-## Most Used Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeM2000)](https://github.com/anuraghazra/github-readme-stats)
+<p style="text-align: center;">
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeM2000&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="GeorgeM2000"/>
+  </p>
+</p>
 
 
 </br>
