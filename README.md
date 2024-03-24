@@ -1,15 +1,15 @@
 # Hello! I'm George <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 <br />
-I am an undergraduate student studying Computer Science (4th year) 👨‍💻 at UOWM (University Of Western Macedonia). I am interested in machine learning applications from a software and hardware perspective 💻. I am constantly improving my skills and learning new things 🚀.
+I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Aristotle University of Thessaloniki). I am interested in machine learning applications from a software and hardware perspective 💻. I am constantly improving my skills and learning new things 🚀.
 <br/>
 
 ## Technologies I am interested in :computer:
 
-- Backend Web Development
+- Natural Language Processing
 - Machine Learning and Data Mining
 - Scientific Computing
-- I.O.T Application design
+- High Performance Computing
 
   <!-- <br/>
   <br/>
@@ -21,7 +21,7 @@ I am an undergraduate student studying Computer Science (4th year) 👨‍💻 a
 - 👨🏽‍💻 Machine learning enthusiast.
 - 💬 Let's talk about technologies and stuffs.
 - 👨🏽‍💼 Improving my skills on a daily basis.
-- 📫 Mail me at: giorgos_matlis@hotmail.com
+- 📫 Mail me at: gmatl@csd.auth.gr
 <br/>
 
 ### :hammer_and_wrench: Languages and tools i am familiar with:
