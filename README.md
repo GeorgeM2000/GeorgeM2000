@@ -56,22 +56,12 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
   </p>
 </p>
 
-## 👨‍💻 Research Studies
-<details>
-  <summary>An Intelligent Injury Prevention System for Recreational Runners Using Data Mining Algorithms</summary>
-  <!-- Embed PDF -->
-  <object data="An_Intelligent_Injury_Prevention_System_for_Recreational_Runners_Using_Data_Mining_Algorithms.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Unable to display PDF.</p>
-  </object>
-</details>
+## 👨‍💻 Research Projects
+<div align="center">
+  <h2 style="font-family: Arial, sans-serif; color: #333;">Automatic Keyword Extraction from Scientific Documents</h2>
+  <img src="Automatic Keyword Extraction from Scientific Documents.png" alt="Automatic_Keyword_Extraction_from Scientific Documents" width="50%">
+</div>
 
-<details>
-  <summary>Life Expectancy Analysis</summary>
-  <!-- Embed PDF -->
-  <object data="Life_Expectancy_Analysis.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Unable to display PDF.</p>
-  </object>
-</details>
 
 
 </br>
