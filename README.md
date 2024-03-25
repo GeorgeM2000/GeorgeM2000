@@ -58,9 +58,10 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 
 ## 👨‍💻 Research Projects
 <div align="center">
-  <h2 style="font-family: Arial, sans-serif; color: #333;">Automatic Keyword Extraction from Scientific Documents</h2>
-  <img src="Automatic Keyword Extraction from Scientific Documents.png" alt="Automatic_Keyword_Extraction_from Scientific Documents" width="50%">
+  <img src="Automatic_Keyword_Extraction_from_Scientific_Documents.png" alt="Automatic_Keyword_Extraction_from Scientific Documents">
 </div>
+
+
 
 
 
