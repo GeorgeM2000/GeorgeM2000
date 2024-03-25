@@ -57,10 +57,9 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 </p>
 
 ## 👨‍💻 Research Projects
-<div align="center">
-  <img src="Automatic_Keyword_Extraction_from_Scientific_Documents.png" alt="Automatic_Keyword_Extraction_from Scientific Documents">
+<div align="left">
+  <img src="Injury_Rehabilitation_System.png" alt="">
 </div>
-
 
 
 
