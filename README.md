@@ -56,12 +56,15 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
   </p>
 </p>
 
-## 👨‍💻 Research Projects
+## 👨‍💻 Research Papers
 
 <details>
-<summary>An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms</summary>
+<summary><h3 color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms</h3></summary>
 
-![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)
+<!--![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)-->
+<a href="https://www.mdpi.com/1999-4893/16/11/523">
+        <img src="Injury_Rehabilitation_Guidance_System.png" alt="An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms" style="max-width: 100%; height: auto;">
+    </a>
 
 </details>
 
