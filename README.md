@@ -57,9 +57,16 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 </p>
 
 ## 👨‍💻 Research Projects
-<div align="left">
-  <img src="Injury_Rehabilitation_System.png" alt="">
-</div>
+
+<details>
+<summary>An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms</summary>
+
+![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)
+
+</details>
+
+    
+
 
 
 
