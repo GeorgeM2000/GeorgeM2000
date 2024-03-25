@@ -57,9 +57,21 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 </p>
 
 ## 👨‍💻 Research Studies
-- [Title of Paper 1](Paper1.md)
-- [Title of Paper 2](Paper1.md)
-- [Title of Paper 3](Paper1.md)
+<details>
+  <summary>An Intelligent Injury Prevention System for Recreational Runners Using Data Mining Algorithms</summary>
+  <!-- Embed PDF -->
+  <object data="An_Intelligent_Injury_Prevention_System_for_Recreational_Runners_Using_Data_Mining_Algorithms.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF.</p>
+  </object>
+</details>
+
+<details>
+  <summary>Life Expectancy Analysis</summary>
+  <!-- Embed PDF -->
+  <object data="Life_Expectancy_Analysis.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF.</p>
+  </object>
+</details>
 
 
 </br>
