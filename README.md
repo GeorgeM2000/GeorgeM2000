@@ -11,11 +11,6 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 - Scientific Computing
 - High Performance Computing
 
-  <!-- <br/>
-  <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  </br> -->
-
 **About Me:**
 
 - 👨🏽‍💻 Machine learning enthusiast.
