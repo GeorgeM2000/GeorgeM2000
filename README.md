@@ -56,6 +56,11 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
   </p>
 </p>
 
+## 👨‍💻 Research Studies
+- [Title of Paper 1](Paper1.md)
+- [Title of Paper 2](Paper1.md)
+- [Title of Paper 3](Paper1.md)
+
 
 </br>
 You're on my Github profile now!!
