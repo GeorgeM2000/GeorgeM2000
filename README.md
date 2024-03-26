@@ -4,7 +4,7 @@
 I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Aristotle University of Thessaloniki). I am interested in machine learning applications from a software and hardware perspective 💻. I am constantly improving my skills and learning new things 🚀.
 <br/>
 
-## Technologies I am interested in :computer:
+## Research Areas I Am Interested In :computer:
 
 - Natural Language Processing
 - Machine Learning and Data Mining
