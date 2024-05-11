@@ -51,17 +51,19 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
   </p>
 </p>
 
+<!--![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)-->
+
 ## 👨‍💻 Research Papers
 
 <details>
 <summary><h3 color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms</h3></summary>
-
-<!--![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)-->
     <a href="https://www.mdpi.com/1999-4893/16/11/523">
         <img src="Injury_Rehabilitation_Guidance_System.png" alt="An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms" style="max-width: 100%; height: auto;">
     </a>
-    
-<!--![Unveiling University Groupings: A Clustering Analysis for Academic Rankings](Unveiling_University_Groupings.png)-->
+</details>
+
+<details>
+<summary><h3 color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">Unveiling University Groupings: A Clustering Analysis for Academic Rankings</h3></summary>    
     <a href="https://www.mdpi.com/2306-5729/9/5/67">
         <img src="Unveiling_University_Groupings.png" alt="Unveiling University Groupings: A Clustering Analysis for Academic Rankings" style="max-width: 100%; height: auto;">
     </a>
