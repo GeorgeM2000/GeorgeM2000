@@ -1,21 +1,23 @@
 # Hello! I'm George <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 <br />
-I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Aristotle University of Thessaloniki). I am interested in machine learning applications from a software and hardware perspective 💻. I am constantly improving my skills and learning new things 🚀.
+I hold an MSc in Computer Science with a specialization in Data and Web Science 👨‍💻 from Aristotle University of Thessaloniki (AUTh), and I am currently pursuing a PhD at the University of Western Macedonia (UOWM). My research interests lie in machine learning applications, both from software and hardware perspectives 💻. I’m always striving to expand my knowledge and sharpen my skills 🚀.
 <br/>
 
-## Research Areas I Am Interested In :computer:
+## Research Topics I Am Interested In :computer:
 
 - Natural Language Processing
 - Machine Learning and Data Mining
+- Graph Mining
 - Scientific Computing
 - High Performance Computing
+- Mobile IoT Applications
 
 **About Me:**
 
 - 👨🏽‍💻 Machine learning enthusiast.
 - 💬 Let's talk about technologies and stuffs.
-- 👨🏽‍💼 Improving my skills on a daily basis.
+- 👨🏽‍💼 Constantly improving my skills.
 - 📫 Mail me at: gmatl@csd.auth.gr
 <br/>
 
@@ -53,7 +55,7 @@ I'm a postgraduate student M.Sc in Data and Web Science 👨‍💻 at AUTh (Ari
 
 <!--![An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms](Injury_Rehabilitation_Guidance_System.png)-->
 
-## 👨‍💻 Research Papers
+## 👨‍💻 Most Recent Research Papers
 
 <details>
 <summary><h3 color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">An Intelligent Injury Rehabilitation Guidance System for Recreational Runners Using Data Mining Algorithms</h3></summary>
